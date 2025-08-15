@@ -1,4 +1,4 @@
-## Hi there 👋 my people :) 
+## Hi there 👋 my people 😄 
 <!--
 **JeffreyMawuko/JeffreyMawuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 💫 About Me:
 
-🔭 VtechUB (Developing Security Products, Secure for cloud Infrastructure/Resources) is growing; My Name is M.J. Wilson <br>👯 Cloud Resource Designing and Security; DevSecOp<br>🤝 Let's talk about cloud engineering, zero trust, access control<br><br>💬 Ask me about<br>⚡ Always Learning and Developing; Growing and making impacts; Cloud SecOps Engineer by Profession. CloudSecEng. Designs, implements & manages cloud resources. Leads in CAF/CCM, FinOps strategist & leading migrations in Azure, AWS, GCP.
+🔭 VtechUB (Developing Security Products, Secure for cloud Infrastructure/Resources) is growing; My Name is M.J. Wilson <br>👯 Cloud Resource Designing and Security; DevSecOp<br>🤝 Let's talk about cloud engineering, zero trust, and access control<br><br>💬 Ask me about<br>⚡ Always Learning and Developing; Growing and making impacts; Cloud SecOps Engineer by Profession. CloudSecEng. Designs, implements & manages cloud resources. Leads in CAF/CCM, FinOps strategist & leading migrations in Azure, AWS, GCP, and OCI.
 
-Lets Collabo!
+Let's Collabo!
 
 # 📊 GitHub Stats:
 
@@ -27,8 +28,7 @@ Lets Collabo!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JeffreyMawuko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JeffreyMawuko&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ 📫 jeffmawuko@gmail.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
