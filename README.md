@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 VtechUB Fellow, Name is M.J. Wilson <br>👯 Cloud Engineering and Security; DevSecOp -Developing Security Products and Secure Infrastructure<br>🤝 Let's talk about cloud engineering, zero trust, access control<br><br>💬 Ask me about<br>⚡ Always Learning New Stuff; Cloud SecOps Engineer by Profession
+🔭 VtechUB Fellow, Name is M.J. Wilson <br>👯 Cloud Engineering and Security; DevSecOp -Developing Security Products and Secure Infrastructure<br>🤝 Let's talk about cloud engineering, zero trust, access control<br><br>💬 Ask me about<br>⚡ Always Learning New Stuff; Cloud SecOps Engineer by Profession. CloudSecEng. Designs, implements & manages cloud resources. Leads in CAF/CCM, FinOps strategist & leading migrations in Azure, AWS, GCP.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeffreyMawuko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
