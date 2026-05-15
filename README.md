@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 🔭 VtechUB et Employee  😄 (Developing Security Products; Cloud Leadership, Architect, Secure cloud Infrastructures/Resources, Digital Transformation) growing! M.J. Wilson here <br>👯 Skilled in Cloud Resource Designing, Architecting Solutions, and Security; DevSecOps<br>🤝 Let's talk about cloud engineering, zero trust, and access control<br><br>💬 Ask me about<br>⚡ Digital Transformation and Strategies; Cloud Solution Design, Cloud Engineering, and Architecting 🤝
-
-Always Learning and Developing; Growing and making impacts; Cloud SecOps Engineer by Profession. CloudSecEng. Designs, implements & manages cloud resources. Leads in CAF/CCM, FinOps strategist & leading migrations in Azure, AWS, GCP, and OCI.
+Always Learning! ========================= FinOps strategist & leading migrations in Azure, AWS, GCP, and OCI ===============================================
 
 Let's Collabo!
 
