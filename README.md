@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 🔭 Cloud Enthusiast  😄 (Designing Robust, and highly secure cloud systems and infra, cloud-native products, infra (Containers, AKS, EKS, ECS), network(FW, vNet, VPC, etc.), web apps-front and back end; IAM engineering and assessments (RBAC, ABAC, IAM roles, Policy), Cloud Leadership, Architect, Secure cloud Infrastructures/Resources, Digital Transformation) growing!
 M.J. Wilson here <br>👯 Skilled in Cloud Resource Design, Architecting Solutions, and Security; DevSecOps<br>🤝 Let's talk about cloud engineering, zero trust, and access control<br><br>💬 Ask me about<br>⚡ Digital Transformation and Strategies; Cloud Solution Design, Cloud Engineering, and Architecting 🤝
 
-Always Learning! ================ Security & FinOps strategist & leading migrations in Azure, AWS, GCP, and OCI =====
+Always Learning!
+Security & FinOps strategist & leading migrations in Azure, AWS, GCP, and OCI =====
 
 Let's Collabo!
 
